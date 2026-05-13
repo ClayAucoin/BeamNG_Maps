@@ -7,7 +7,7 @@
 - ### Cosmetic
   - #### Trees and Bushes
     - ##### Right Lake
-      - Remove trees that would be under water in Right Lake
+      - Remove trees that would be under water in Right Lake.
 
     - #### Tunnel
       - Bushes at entrance to tunnel by Right Lake
